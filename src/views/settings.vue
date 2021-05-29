@@ -387,8 +387,8 @@
 
       <div class="footer">
         <p class="author"
-          >MADE BY
-          <a href="http://github.com/qier222" target="_blank">QIER222</a></p
+          >Copyright
+          <a href="https://fjskeji.com" target="_blank">FJS科技</a> 版权所有</p
         >
         <p class="version">v{{ version }}</p>
       </div>
